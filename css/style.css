@@ -1,0 +1,79 @@
+#section1
+{
+    background: url(../images/Background.jpg);
+    height: 560px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover; 
+}
+#pixabay
+{
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+
+#section1 .bg-light
+{
+    background: none !important;
+}
+
+#displayText
+{
+    color: white;
+    text-align: center;
+    padding: 80px;
+
+
+}
+
+#search
+{
+    position: relative;
+    height: 55px;
+}
+#dropdownMenuButton
+{
+    position: absolute;
+    right: 15px;
+    top: 180px;
+    background: none;
+    border: none;
+    color:grey;
+}
+
+h2
+{
+    margin-top: 50px;
+    font-weight: 750;
+    font-size: 35px;
+}
+p
+{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    font-weight:500;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: medium
+
+}
+
+#section1 li
+{
+    margin-left: 20px;
+    font-weight: 450;
+    font-size: 110%;
+}
+
+#Signup
+{
+    margin-top:5px;
+    padding-top: 00px;
+    font-weight: 500;
+    border-color: white;
+    height: 30px;
+    width: 80px;
+    border-width: 1px;
+}
